@@ -30,8 +30,11 @@ standard emojis will be awailable for easy usages!
 
 
 ```json
-"The bot will auto install --save -g google-it , weather-js"
+"The bot will auto install ": All required packages
 ```
+
+OR
+
 ```json
 
 "Manually Install rest of the packages with": 
@@ -42,8 +45,8 @@ npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finde
 
 ```json
 "Enter in secrets": "token"
-"Enter in secrets": "key" of google CSE
-"Enter in secrets": "API" of google CSE
+"Enter in secrets": "key of google CSE as → key "
+"Enter in secrets": "API of google CSE as → API "
 ```
  
 ```json
