@@ -41,7 +41,9 @@ npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finde
 
 
 ```json
-"Enter token in secrets": "token"
+"Enter in secrets": "token"
+"Enter in secrets": "key" of google CSE
+"Enter in secrets": "API" of google CSE
 ```
  
 ```json
