@@ -35,6 +35,6 @@
     "util": "^0.12.4",
     "weather-js": "^2.0.0",
     "youtube-sr": "^4.1.4",
-    "ytdl-core": "git+https://github.com/KabirJaipal/node-ytdl-core.git"
+    "ytdl-core": "^4.11.0"
   }
 }
