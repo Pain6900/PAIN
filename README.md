@@ -61,5 +61,6 @@ npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finde
 - `help [COMMAND]`      --    *Gives you all info about commands and all...*
 ```
 
+[![image](https://www.linkpicture.com/q/2021-10-15.png)](https://www.linkpicture.com/view.php?img=LPic62cf9b00e98091530458964)
 
 
